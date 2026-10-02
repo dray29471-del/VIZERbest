@@ -1,4 +1,4 @@
---1q131231233
+--vizer https://discord.gg/wzuRa8B3r discord vizer
 game.Players.LocalPlayer.PlayerScripts.CharacterAndBeamMove.Enabled = false
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
